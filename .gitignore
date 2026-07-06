@@ -1,0 +1,74 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.i*
+*.s
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Coverage
+coverage/
+*.gcda
+*.gcno
+*.gcov
