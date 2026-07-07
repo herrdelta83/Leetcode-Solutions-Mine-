@@ -94,6 +94,7 @@ Example:
 ## Live Solve (YouTube)
 
 Youtube Channel: *www.youtube.com/@HerrDelta-g3k*
+Leetcode: **
 
 These recordings are **raw problem-solving sessions**. They intentionally contain the complete thinking process, including mistakes, debugging, and reasoning, without code comments or heavy editing, similar to a technical interview.
 
